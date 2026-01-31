@@ -1,5 +1,3 @@
-Lisan
-
 I spent years in Navy Special Warfare and defense contracting. Now I build tools in the open.
 
 Working solo. Shipping products. Learning in public.
