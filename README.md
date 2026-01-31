@@ -1,16 +1,15 @@
-## Hi there 👋
+Lisan
 
-<!--
-**LisanXG/LisanXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spent years in Navy Special Warfare and defense contracting. Now I build tools in the open.
 
-Here are some ideas to get you started:
+Working solo. Shipping products. Learning in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+What's live:
+
+[LISAN INTELLIGENCE](https://lisanintel.com) — Crypto signal engine. 14 indicators. Free.
+
+---
+
+[lisanholdings.dev](https://lisanholdings.dev) · [@Lisantherealone](https://x.com/Lisantherealone)
