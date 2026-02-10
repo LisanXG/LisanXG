@@ -14,7 +14,7 @@ Working solo. Shipping products. Learning in public.
 
 ---
 
-TypeScript · Next.js · Supabase · PineScript · Vercel
+TypeScript · React · Next.js · Tailwind CSS · Supabase · PostgreSQL · WebGL · PineScript · Vercel
 
 [lisanholdings.dev](https://lisanholdings.dev) · [@Lisantherealone](https://x.com/Lisantherealone)
 
