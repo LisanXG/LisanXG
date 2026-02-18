@@ -41,23 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/LisanXG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LisanXG&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/LisanXG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisanXG&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=LisanXG&theme=github-dark-blue&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 What's Live
