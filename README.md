@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <em>All products are free and publicly verifiable. Every signal is tracked. Every trade is logged. Every decision the AI makes is auditable.</em>
+  <em>All products are free and publicly verifiable.</em>
 </p>
