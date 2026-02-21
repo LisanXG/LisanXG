@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lisan 👋</h1>
 
 <p align="center">
-  <em>Navy Special Warfare veteran → solo builder in web3</em>
+  <em>Navy Special Warfare Veteran → Solo builder in Web3</em>
 </p>
 
 <p align="center">
