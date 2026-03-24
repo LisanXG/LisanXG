@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lisan 👋</h1>
 
 <p align="center">
-  <em>Navy Special Warfare Veteran → Solo builder in Web3</em>
+  <em>Navy Expeditionary Warfare Veteran → Web3 Founder</em>
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### About Me
 
-- 🔭 Founder of **[Lisan Holdings](https://lisanholdings.dev)** — Independent Research & Development in Quantitative Intelligence, Autonomous Agents, and on-chain infrastructure.
+- 🔭 Founder of **[Lisan Holdings](https://lisanholdings.dev)** — Independent Investment & Development in Quantitative Intelligence, Autonomous Agents, and on-chain infrastructure.
 - 🛠️ Building Solo with locally forked agentic IDE suites — from signal engines to AI agents to TradingView indicators.
 - 🧠 Philosophy: Every signal tracked, every trade logged, every AI decision auditable.
-- 🎖️ Former US Navy Special Warfare & Defense Contracting.
+- 🎖️ Former US Navy Expeditionary Warfare & Defense Contracting.
 
 ---
 
@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <em>All products are free and publicly verifiable.</em>
+  <em>All products are publicly verifiable.</em>
 </p>
