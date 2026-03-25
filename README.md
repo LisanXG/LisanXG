@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 🔭 Founder of **[Lisan Holdings](https://lisanholdings.dev)** — Independent Investment & Development in Quantitative Intelligence, Autonomous Agents, and on-chain infrastructure.
+- 🔭 Founder of **[Lisan Holdings](https://lisanholdings.dev)** — Independent Investment & Development firm.
 - 🛠️ Building Solo with locally forked agentic IDE suites — from signal engines to AI agents to TradingView indicators.
 - 🧠 Philosophy: Every signal tracked, every trade logged, every AI decision auditable.
 - 🎖️ Former US Navy Expeditionary Warfare & Defense Contracting.
