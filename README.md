@@ -45,12 +45,7 @@
 
 ### 🚀 What's Live
 
-| Project | What It Does |
-|---|---|
-| [**Lisan Intelligence**](https://lisanintel.com) | Quantitative crypto signal engine — 17-indicator scoring, self-learning weights, ATR risk, regime detection. Free. |
-| [**Lisan Score**](https://github.com/LisanXG/lisan-score-tradingview) | PineScript indicator for TradingView — 12 on-chart indicators, long/short with TP & SL. Open source. |
-| [**QasidAI**](https://github.com/LisanXG/qasid-agent) | Autonomous AI CMO — runs 24/7, posts to X, engages on Botchan, brain stored on-chain (Base L2). |
-| [**lisanholdings.dev**](https://lisanholdings.dev) | Corporate landing — WebGL, product showcase, founder story. |
+Contact for work @lisanxgaeb@gmail.com , I made it 
 
 ---
 
